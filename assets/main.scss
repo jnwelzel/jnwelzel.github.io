@@ -1,0 +1,23 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@import "minima";
+
+.about {
+  .header {
+    align-items: center; 
+    display: flex;
+    flex-direction: column;
+    
+    .portrait {
+      background-image: url('/assets/portrait.jpg');
+      background-repeat: no-repeat;
+      background-size: contain;
+      border: 1px solid #d4d3d3;
+      border-radius: 50%;
+      height: 180px;
+      margin-bottom: 20px;
+      width: 180px;
+    }
+  }
+}
