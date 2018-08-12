@@ -16,8 +16,8 @@
 title: Jon Welzel
 email: contact@jonwelzel.online
 description: >- # this means to ignore newlines until "baseurl:"
-  You have reached Jonathan Welzel's homepage, a place for sharing technical stuff and
-  some personal thoughts as well. Feel free to get in touch. Feedback always welcome ;-)
+  My space for sharing technical stuff and some personal thoughts as well. Feel free to get
+  in touch and/or give any feedback ;-)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jonwelzel.online" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jonathan_welzel
