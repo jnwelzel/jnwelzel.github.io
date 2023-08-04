@@ -20,7 +20,22 @@
     }
 
     .intro-text {
-      margin-bottom: 15px;
+      margin-bottom: 30px;
+      position: relative;
+
+      .quotation {
+        padding: 5px 5px 5px 15px;
+      }
+     
+      .quotation::before {
+        content: "";
+        width: 4px;
+        display: block;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        background-color: #ddd;
+      }
     }
   }
 }
